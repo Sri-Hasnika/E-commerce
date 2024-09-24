@@ -10,6 +10,7 @@ View products
 Add and remove items from a shopping cart
 Increase or decrease the quantity of items in the cart
 Search for specific items by name
+
 2. Project Features
 Display Products: Fetch and display products from the Fake Store API.
 Add to Cart: Allow users to add products to a shopping cart.
@@ -25,6 +26,8 @@ Search: Implement a search bar to filter items by name.
 
 
 ##Screeshots
+##Home Page
 ![Home Page Screenshot](./homepage.png)
+##Cart
 ![Cart Screenshot](./cart.png)
 
