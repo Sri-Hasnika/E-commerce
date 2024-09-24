@@ -31,8 +31,11 @@ Search: Implement a search bar to filter items by name.
 
 
 ##Screeshots
+
 ##Home Page
 ![Home Page Screenshot](./homepage.png)
+
+
 ##Cart
 ![Cart Screenshot](./cart.png)
 
