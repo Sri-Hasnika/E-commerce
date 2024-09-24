@@ -22,3 +22,9 @@ Search: Implement a search bar to filter items by name.
 1.clone Repository
 `git clone https://github.com/Sri-Hasnika/E-commerce.git`
 2.Install dependencies: `npm install`
+
+
+##Screeshots
+![Home Page Screenshot](./homepage.png)
+![Cart Screenshot](./cart.png)
+
