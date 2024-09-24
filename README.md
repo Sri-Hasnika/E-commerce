@@ -13,9 +13,13 @@ Search for specific items by name
 
 2. Project Features
 Display Products: Fetch and display products from the Fake Store API.
+
 Add to Cart: Allow users to add products to a shopping cart.
+
 Delete from Cart: Remove products from the cart.
+
 Update Quantity: Adjust the number of items in the cart.
+
 Search: Implement a search bar to filter items by name.
 
 
